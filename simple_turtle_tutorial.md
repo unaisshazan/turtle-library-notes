@@ -1,4 +1,3 @@
-# turtle-library-notes
 <meta charset="UTF-8">
 <link rel="stylesheet" type="text/css" href="simple_turtle_tutorial.css">
 
